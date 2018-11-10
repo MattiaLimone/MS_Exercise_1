@@ -1,4 +1,4 @@
-UZ exercise 1  
+MS exercise 1  
   
 Univerza v Ljubljani  
 @Author: Mattia Limone  
